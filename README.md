@@ -50,7 +50,7 @@ Android | Samsung S6, S7, and S8 families
 _What is your project? What's the general overview on it?_
 
 ### Who are we building for?
-_Brief introduction to product owner or company or whover this thing is for_
+_Brief introduction to product owner or company or whoever this thing is for_
 
 ### What is the main problem we are trying to solve?
 _What's the pain point? Why does this thing need to be built?_
@@ -63,7 +63,7 @@ _What should this thing do in a nutshell. No bells or whistles, this is what the
 The who and what of the project. What user types live in this project? Admins, Customers etc. Maybe there's a piece of a user profile that could provide some context. Add it Here. 
 
 ### Verbs
-The actions users take within the application. Maybe you buy something or connect with a friend. List those actuons here. 
+The actions users take within the application. Maybe you buy something or connect with a friend. List those actions here. 
 
 ## Team
 
